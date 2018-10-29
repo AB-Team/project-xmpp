@@ -40,6 +40,11 @@
 		</dependency>
 		<dependency>
 			<groupId>org.igniterealtime.smack</groupId>
+			<artifactId>smack-sasl-provided</artifactId>
+			<version>4.3.1</version>
+		</dependency>
+		<dependency>
+			<groupId>org.igniterealtime.smack</groupId>
 			<artifactId>smack-core</artifactId>
 			<version>4.3.1</version>
 		</dependency>
